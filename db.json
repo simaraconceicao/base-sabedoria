@@ -2,125 +2,32 @@
         "javascript":[
             {
                 "id": 1,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
+                "title": "O que é JavaScript?",
+                "description": "Uma das linguagens mais queridinhas do mundo, rs. 2 vantagens para aprender Javascript hoje mesmo: a comunidade é gigantesca e a curva de aprendizado é baixa. Chega de papinho! JS é a linguagem de programação dos navegadores, ela é funcional e tem fortes capacidades de programação orientada a objetos, o que quer dizer que tudo em Javascript é uma função, e geralmente ela vai retornar objetos. É importante saber também que o JS manipula estilo e dados a partir da interação do usuário, deixando seu site dinâmico e lindão.",
+                "img": "https://media.giphy.com/media/3oKIPhlDWlUHvbVhsI/giphy.gif",
+                "url": "https://www.instagram.com/tv/CCqqilAJFMp/"
             },
             {
                 "id": 2,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
+                "title": "Como destravar o entendimento em Javascript?",
+                "description": "Você precisa aprender 7 conceitos fundamentais: variáveis, tipos e desestruturação de dados(principalmente objetos, arrays e arrays like), funcões, operadores, condicionais, fetch api(promises) e eventos. Agora, você precisa aprender a sintaxe(como escrever cada coisa), depois você precisa trazer seu modo de pensar para execuções dentro do seu projeto, dê um passo de cada vez e de repente você tem uma aplicação inteirinha pra chamar de sua. Esse passo não vai ser rápido, assista a todos os vídeos do botão saiba mais!",
+                "img": "https://media.giphy.com/media/gKHV4ecuuy2fIovgfR/giphy.gif",
+                "url": "https://www.cursoemvideo.com/course/javascript/"
             },
             {
                 "id": 3,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
+                "title": "O que dá pra fazer com Javascript?",
+                "description": "A boa notícia é que dá pra ir além dos navegadores. Hoje já é possível criar aplicativos android e ios, é possível também criar aplicativos para desktop e até games e robótica. Ou seja, domine todos os fudamentos e após isso busque se desenvolver na área que você mais gosta. Tudo começa com os fundamentos, baixe o Livro no botão Saiba Mais!",
+                "img": "https://media.giphy.com/media/26xBR1tPpwsuod9ao/giphy.gif",
+                "url": "https://materiais.simaraconceicao.com/livro-js-o-guia"
             },
             {
                 "id": 4,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
+                "title": "Treinando Javascript",
+                "description": "Aprender Javascript é sobre REPETIÇÃO. Então sempre que tiver milhares de exercícios para você declarar variáveis ou criar funções, FAÇA! Aqui no botão saiba mais você vai fazer 10 dias de exercícios de Javascript no Hacker Rank!",
+                "img": "https://media.giphy.com/media/3oz8xuZupCwQf6ejUk/giphy.gif",
+                "url": "https://www.hackerrank.com/domains/tutorials/10-days-of-javascript"
             }
-
-        ],
-        "api":[
-            {
-                "id": 1,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 2,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 3,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 4,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            }
-
-        ],
-        "react":[
-            {
-                "id": 1,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 2,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 3,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 4,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            }
-
-        ],
-        "fire-base":[
-            {
-                "id": 1,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 2,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 3,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            },
-            {
-                "id": 4,
-                "title": "",
-                "description": "",
-                "img": "",
-                "url": ""
-            }
-
+    
         ]
     }
